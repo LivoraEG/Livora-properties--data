@@ -12,7 +12,7 @@
       "priceAr": 15000000,
       "description": "Stunning 5-bedroom villa with modern amenities and a private garden in the heart of New Cairo.",
       "descriptionAr": "فيلا مذهلة بـ 5 غرف نوم مع وسائل راحة عصرية وحديقة خاصة في قلب القاهرة الجديدة",
-      "images": ["./properties/big (1).webp", "./properties/medium (1).webp", "./properties/medium.webp"],
+      "images": ["/properties/big (1).webp", "/properties/medium (1).webp", "/properties/medium.webp"],
       "features": [
         "Private Pool",
         "Garden",
@@ -58,7 +58,7 @@
       "priceAr": 2800000,
       "description": "Luxurious 3-bedroom apartment with stunning marina views and premium finishes.",
       "descriptionAr": "شقة فاخرة بـ 3 غرف نوم مع إطلالات خلابة على المارينا وتشطيبات فاخرة",
-      "images": ["./properties/big (1).webp", "./properties/medium (1).webp", "./properties/medium.webp"],
+      "images": ["/properties/big (1).webp", "/properties/medium (1).webp", "/properties/medium.webp"],
       "features": [
         "Marina View",
         "Balcony",
@@ -104,7 +104,7 @@
       "priceAr": 18000000,
       "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
       "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
-      "images": ["./properties/big (1).webp", "./properties/medium (1).webp", "./properties/medium.webp"],
+      "images": ["/properties/big (1).webp", "/properties/medium (1).webp", "/properties/medium.webp"],
       "features": [
         "Panoramic Views",
         "Private Terrace",
@@ -150,7 +150,7 @@
       "priceAr": 22000000,
       "description": "Luxurious beachfront villa with direct beach access and breathtaking sea views.",
       "descriptionAr": "فيلا فاخرة على الشاطئ مع وصول مباشر للبحر وإطلالات خلابة على البحر",
-      "images": ["./properties/big (1).webp", "./properties/medium (1).webp", "./properties/medium.webp"],
+      "images": ["/properties/big (1).webp", "/properties/medium (1).webp", "/properties/medium.webp"],
       "features": [
         "Beach Access",
         "Sea View",
@@ -196,7 +196,7 @@
       "priceAr": 3500000,
       "description": "Spacious 4-bedroom townhouse in a gated community with golf course views.",
       "descriptionAr": "تاون هاوس واسع بـ 4 غرف نوم في مجمع مغلق مع إطلالات على ملعب الجولف",
-      "images": ["./properties/big (1).webp", "./properties/medium (1).webp", "./properties/medium.webp"],
+      "images": ["/properties/big (1).webp", "/properties/medium (1).webp", "/properties/medium.webp"],
       "features": [
         "Golf Course View",
         "Private Garden",
