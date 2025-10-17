@@ -1,0 +1,254 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Luxury Villa in New Cairo",
+      "titleAr": "فيلا فاخرة في القاهرة الجديدة",
+      "location": "New Cairo, Egypt",
+      "locationAr": "القاهرة الجديدة، مصر",
+      "city": "Cairo",
+      "cityAr": "القاهرة",
+      "price": 15000000,
+      "priceAr": 15000000,
+      "description": "Stunning 5-bedroom villa with modern amenities and a private garden in the heart of New Cairo.",
+      "descriptionAr": "فيلا مذهلة بـ 5 غرف نوم مع وسائل راحة عصرية وحديقة خاصة في قلب القاهرة الجديدة",
+      "images": [
+        "/properties/villa-cairo-1.webp",
+        "/properties/villa-cairo-2.webp",
+        "/properties/villa-cairo-3.webp"
+      ],
+      "features": [
+        "Private Pool",
+        "Garden",
+        "Parking",
+        "Security System",
+        "Smart Home"
+      ],
+      "featuresAr": [
+        "مسبح خاص",
+        "حديقة",
+        "موقف سيارات",
+        "نظام أمني",
+        "منزل ذكي"
+      ],
+      "paymentPlans": "Flexible payment plans available with up to 5 years installments",
+      "paymentPlansAr": "خطط دفع مرنة متاحة مع أقساط تصل إلى 5 سنوات",
+      "amenities": [
+        "Swimming Pool",
+        "Gym",
+        "Kids Area",
+        "Landscaped Gardens",
+        "24/7 Security"
+      ],
+      "developer": "Palm Hills Developments",
+      "type": "Villa",
+      "typeAr": "فيلا",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "area": 600,
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "Modern Apartment in Dubai Marina",
+      "titleAr": "شقة عصرية في دبي مارينا",
+      "location": "Dubai Marina, UAE",
+      "locationAr": "دبي مارينا، الإمارات",
+      "city": "Dubai",
+      "cityAr": "دبي",
+      "price": 2800000,
+      "priceAr": 2800000,
+      "description": "Luxurious 3-bedroom apartment with stunning marina views and premium finishes.",
+      "descriptionAr": "شقة فاخرة بـ 3 غرف نوم مع إطلالات خلابة على المارينا وتشطيبات فاخرة",
+      "images": [
+        "/properties/apartment-dubai-1.webp",
+        "/properties/apartment-dubai-2.webp",
+        "/properties/apartment-dubai-3.webp"
+      ],
+      "features": [
+        "Marina View",
+        "Balcony",
+        "Modern Kitchen",
+        "Built-in Wardrobes",
+        "Covered Parking"
+      ],
+      "featuresAr": [
+        "إطلالة على المارينا",
+        "شرفة",
+        "مطبخ عصري",
+        "خزائن مدمجة",
+        "موقف سيارات مغطى"
+      ],
+      "paymentPlans": "Cash payment or bank financing available",
+      "paymentPlansAr": "الدفع نقداً أو التمويل البنكي متاح",
+      "amenities": [
+        "Swimming Pool",
+        "Gym",
+        "Concierge Service",
+        "Beach Access",
+        "Retail Outlets"
+      ],
+      "developer": "Emaar Properties",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "AED",
+      "currencyAr": "د.إ",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 220,
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Penthouse in Downtown Cairo",
+      "titleAr": "بنتهاوس في وسط القاهرة",
+      "location": "Downtown Cairo, Egypt",
+      "locationAr": "وسط القاهرة، مصر",
+      "city": "Cairo",
+      "cityAr": "القاهرة",
+      "price": 18000000,
+      "priceAr": 18000000,
+      "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
+      "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
+      "images": [
+        "/properties/penthouse-cairo-1.webp",
+        "/properties/penthouse-cairo-2.webp",
+        "/properties/penthouse-cairo-3.webp"
+      ],
+      "features": [
+        "Panoramic Views",
+        "Private Terrace",
+        "Jacuzzi",
+        "Premium Finishes",
+        "Private Elevator"
+      ],
+      "featuresAr": [
+        "إطلالات بانورامية",
+        "تراس خاص",
+        "جاكوزي",
+        "تشطيبات فاخرة",
+        "مصعد خاص"
+      ],
+      "paymentPlans": "10% down payment, remaining over 4 years",
+      "paymentPlansAr": "10% دفعة مقدمة، والباقي على 4 سنوات",
+      "amenities": [
+        "Rooftop Pool",
+        "Spa",
+        "Private Lounge",
+        "Valet Parking",
+        "High-speed Elevators"
+      ],
+      "developer": "Sodic",
+      "type": "Penthouse",
+      "typeAr": "بنتهاوس",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 380,
+      "featured": true
+    },
+    {
+      "id": "4",
+      "title": "Beachfront Villa in North Coast",
+      "titleAr": "فيلا على الشاطئ في الساحل الشمالي",
+      "location": "North Coast, Egypt",
+      "locationAr": "الساحل الشمالي، مصر",
+      "city": "North Coast",
+      "cityAr": "الساحل الشمالي",
+      "price": 22000000,
+      "priceAr": 22000000,
+      "description": "Luxurious beachfront villa with direct beach access and breathtaking sea views.",
+      "descriptionAr": "فيلا فاخرة على الشاطئ مع وصول مباشر للبحر وإطلالات خلابة على البحر",
+      "images": [
+        "/properties/villa-northcoast-1.webp",
+        "/properties/villa-northcoast-2.webp",
+        "/properties/villa-northcoast-3.webp"
+      ],
+      "features": [
+        "Beach Access",
+        "Sea View",
+        "Infinity Pool",
+        "Outdoor Kitchen",
+        "Guest House"
+      ],
+      "featuresAr": [
+        "وصول للشاطئ",
+        "إطلالة على البحر",
+        "مسبح لا متناهي",
+        "مطبخ خارجي",
+        "بيت ضيافة"
+      ],
+      "paymentPlans": "20% down payment, installments up to 6 years",
+      "paymentPlansAr": "20% دفعة مقدمة، أقساط حتى 6 سنوات",
+      "amenities": [
+        "Private Beach",
+        "Beach Club",
+        "Water Sports",
+        "Kids Club",
+        "Fine Dining"
+      ],
+      "developer": "Tatweer Misr",
+      "type": "Villa",
+      "typeAr": "فيلا",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 750,
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "Luxury Townhouse in Arabian Ranches",
+      "titleAr": "تاون هاوس فاخر في المرابع العربية",
+      "location": "Arabian Ranches, Dubai",
+      "locationAr": "المرابع العربية، دبي",
+      "city": "Dubai",
+      "cityAr": "دبي",
+      "price": 3500000,
+      "priceAr": 3500000,
+      "description": "Spacious 4-bedroom townhouse in a gated community with golf course views.",
+      "descriptionAr": "تاون هاوس واسع بـ 4 غرف نوم في مجمع مغلق مع إطلالات على ملعب الجولف",
+      "images": [
+        "/properties/townhouse-dubai-1.webp",
+        "/properties/townhouse-dubai-2.webp",
+        "/properties/townhouse-dubai-3.webp"
+      ],
+      "features": [
+        "Golf Course View",
+        "Private Garden",
+        "Maid's Room",
+        "Study Room",
+        "Upgraded Kitchen"
+      ],
+      "featuresAr": [
+        "إطلالة على ملعب الجولف",
+        "حديقة خاصة",
+        "غرفة خادمة",
+        "غرفة دراسة",
+        "مطبخ مطور"
+      ],
+      "paymentPlans": "Mortgage available through major banks",
+      "paymentPlansAr": "التمويل العقاري متاح من خلال البنوك الكبرى",
+      "amenities": [
+        "Golf Course",
+        "Community Pool",
+        "Tennis Courts",
+        "Cycling Tracks",
+        "Retail Center"
+      ],
+      "developer": "Emaar Properties",
+      "type": "Townhouse",
+      "typeAr": "تاون هاوس",
+      "currency": "AED",
+      "currencyAr": "د.إ",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 320,
+      "featured": false
+    }
+  ]
+}
