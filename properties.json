@@ -2,13 +2,13 @@
   "properties": [
     {
       "id": "1",
-      "title": "Luxury Villa in New Cairo",
-      "titleAr": "فيلا فاخرة في القاهرة الجديدة",
-      "location": "New Cairo, Egypt",
-      "locationAr": "القاهرة الجديدة، مصر",
+      "title": "Luxury Apartment in New Capital",
+      "titleAr": "شقة فاخرة في العاصمة الادارية",
+      "location": "New Capital, Egypt",
+      "locationAr": "العاصمة الادارية، مصر",
       "city": "Cairo",
       "cityAr": "القاهرة",
-      "price": 15000000,
+      "price": 1300000,
       "priceAr": 15000000,
       "description": "Stunning 5-bedroom villa with modern amenities and a private garden in the heart of New Cairo.",
       "descriptionAr": "فيلا مذهلة بـ 5 غرف نوم مع وسائل راحة عصرية وحديقة خاصة في قلب القاهرة الجديدة",
