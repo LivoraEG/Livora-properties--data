@@ -31,7 +31,7 @@
         "منزل ذكي"
       ],
       "paymentPlans": "Flexible payment plans available with up to 10 years installments",
-      "paymentPlansAr": "خطط دفع مرنة متاحة مع أقساط تصل إلى 5 سنوات",
+      "paymentPlansAr": "خطط دفع مرنة متاحة مع أقساط تصل إلى 10 سنوات",
       "amenities": [
         "Swimming Pool",
         "Gym",
@@ -232,6 +232,144 @@
       "bathrooms": 4,
       "area": 320,
       "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Penthouse in Downtown Cairo",
+      "titleAr": "بنتهاوس في وسط القاهرة",
+      "location": "Downtown Cairo, Egypt",
+      "locationAr": "وسط القاهرة، مصر",
+      "city": "Cairo",
+      "cityAr": "القاهرة",
+      "price": 18000000,
+      "priceAr": 18000000,
+      "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
+      "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
+      "images": ["/properties/big (1).webp", "/properties/medium (1).webp", "/properties/medium.webp"],
+      "features": [
+        "Panoramic Views",
+        "Private Terrace",
+        "Jacuzzi",
+        "Premium Finishes",
+        "Private Elevator"
+      ],
+      "featuresAr": [
+        "إطلالات بانورامية",
+        "تراس خاص",
+        "جاكوزي",
+        "تشطيبات فاخرة",
+        "مصعد خاص"
+      ],
+      "paymentPlans": "10% down payment, remaining over 4 years",
+      "paymentPlansAr": "10% دفعة مقدمة، والباقي على 4 سنوات",
+      "amenities": [
+        "Rooftop Pool",
+        "Spa",
+        "Private Lounge",
+        "Valet Parking",
+        "High-speed Elevators"
+      ],
+      "developer": "Sodic",
+      "type": "Penthouse",
+      "typeAr": "بنتهاوس",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 380,
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Penthouse in Downtown Cairo",
+      "titleAr": "بنتهاوس في وسط القاهرة",
+      "location": "Downtown Cairo, Egypt",
+      "locationAr": "وسط القاهرة، مصر",
+      "city": "Cairo",
+      "cityAr": "القاهرة",
+      "price": 18000000,
+      "priceAr": 18000000,
+      "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
+      "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
+      "images": ["/properties/big (1).webp", "/properties/medium (1).webp", "/properties/medium.webp"],
+      "features": [
+        "Panoramic Views",
+        "Private Terrace",
+        "Jacuzzi",
+        "Premium Finishes",
+        "Private Elevator"
+      ],
+      "featuresAr": [
+        "إطلالات بانورامية",
+        "تراس خاص",
+        "جاكوزي",
+        "تشطيبات فاخرة",
+        "مصعد خاص"
+      ],
+      "paymentPlans": "10% down payment, remaining over 4 years",
+      "paymentPlansAr": "10% دفعة مقدمة، والباقي على 4 سنوات",
+      "amenities": [
+        "Rooftop Pool",
+        "Spa",
+        "Private Lounge",
+        "Valet Parking",
+        "High-speed Elevators"
+      ],
+      "developer": "Sodic",
+      "type": "Penthouse",
+      "typeAr": "بنتهاوس",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 380,
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Penthouse in Downtown Cairo",
+      "titleAr": "بنتهاوس في وسط القاهرة",
+      "location": "Downtown Cairo, Egypt",
+      "locationAr": "وسط القاهرة، مصر",
+      "city": "Cairo",
+      "cityAr": "القاهرة",
+      "price": 18000000,
+      "priceAr": 18000000,
+      "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
+      "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
+      "images": ["/properties/big (1).webp", "/properties/medium (1).webp", "/properties/medium.webp"],
+      "features": [
+        "Panoramic Views",
+        "Private Terrace",
+        "Jacuzzi",
+        "Premium Finishes",
+        "Private Elevator"
+      ],
+      "featuresAr": [
+        "إطلالات بانورامية",
+        "تراس خاص",
+        "جاكوزي",
+        "تشطيبات فاخرة",
+        "مصعد خاص"
+      ],
+      "paymentPlans": "10% down payment, remaining over 4 years",
+      "paymentPlansAr": "10% دفعة مقدمة، والباقي على 4 سنوات",
+      "amenities": [
+        "Rooftop Pool",
+        "Spa",
+        "Private Lounge",
+        "Valet Parking",
+        "High-speed Elevators"
+      ],
+      "developer": "Sodic",
+      "type": "Penthouse",
+      "typeAr": "بنتهاوس",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 380,
+      "featured": true
     }
   ]
 }
