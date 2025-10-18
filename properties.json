@@ -2,21 +2,23 @@
   "properties": [
     {
       "id": "1",
-      "title": "Luxury Apartment in New Capital",
-      "titleAr": "شقة فاخرة في العاصمة الادارية",
+      "title": "Luxury Apartment in Queen Land",
+      "titleAr": "شقة فاخرة في كوين لاند",
       "location": "New Capital, Egypt",
       "locationAr": "العاصمة الادارية، مصر",
       "city": "Cairo",
       "cityAr": "القاهرة",
-      "price": 1300000,
-      "priceAr": 13000000,
-      "description": "Stunning 5-bedroom villa with modern amenities and a private garden in the heart of New Cairo.",
-      "descriptionAr": "فيلا مذهلة بـ 5 غرف نوم مع وسائل راحة عصرية وحديقة خاصة في قلب القاهرة الجديدة",
-      "images": ["/properties/test.webp", "/properties/medium (1).webp", "/properties/medium.webp"],
+      "price": 2200000,
+      "priceAr": 2200000,
+      "description": "Fully finished studio in Queen Land Compoundو Prime location in the heart of R8.",
+      "descriptionAr": "استوديو متكامل في كمبوند Queen Land بالعاصمة الإدارية الجديدة  موقع مميز في قلب الـR8، تشطيب فاخر",
+      "images": ["/properties/Euphoria - QueenLand.webp", "/properties/Queenland2.webp", "/properties/Queenland3.webp" , "/properties/Queenland4.webp"],
       "features": [
         "Private Pool",
+        "Clubhouse access",
         "Garden",
         "Parking",
+        "strip mall",
         "Security System",
         "Smart Home"
       ],
@@ -27,7 +29,7 @@
         "نظام أمني",
         "منزل ذكي"
       ],
-      "paymentPlans": "Flexible payment plans available with up to 5 years installments",
+      "paymentPlans": "Flexible payment plans available with up to 10 years installments",
       "paymentPlansAr": "خطط دفع مرنة متاحة مع أقساط تصل إلى 5 سنوات",
       "amenities": [
         "Swimming Pool",
@@ -36,14 +38,14 @@
         "Landscaped Gardens",
         "24/7 Security"
       ],
-      "developer": "Palm Hills Developments",
-      "type": "Villa",
-      "typeAr": "فيلا",
+      "developer": "Euphoria",
+      "type": "Apartment",
+      "typeAr": "شقة",
       "currency": "EGP",
       "currencyAr": "ج.م",
-      "bedrooms": 5,
-      "bathrooms": 6,
-      "area": 600,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 58,
       "featured": true
     },
     {
