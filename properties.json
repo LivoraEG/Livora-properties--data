@@ -196,9 +196,61 @@
       "area": 55,
       "featured": true
     },
+     {
+      "id": "5",
+      "title": "2 Bedrooms Apartment in The Island",
+      "titleAr": "شقة من 2 غرف نوم في ذا آيلاند",
+      "location": "New Capital, Egypt",
+      "locationAr": "العاصمة الادارية، مصر",
+      "city": "New Capital",
+      "cityAr": "العاصمة الادارية",
+      "price": 5800000,
+      "priceAr": 5800000,
+      "description": "Luxurious 2 Bedrooms Apartment in the heart of R8",
+      "descriptionAr": "شقة من 2 غرف نوم فاخر في قلب الR8",
+      "images": [
+        "/properties/TheIsland1.webp",
+        "/properties/TheIsland2.webp",
+        "/properties/TheIsland3.webp"
+      ],
+      "features": [
+
+        "Infinity Pool",
+        "Outdoor Kitchen",
+        "Guest House"
+      ],
+      "featuresAr": [
+      
+        "مسبح لا متناهي",
+        "مطبخ خارجي",
+        "بيت ضيافة"
+      ],
+      "paymentPlans": "10% down payment, installments up to 10 years - 5% Discount Limited Offer",
+      "paymentPlansAr": "10% مقدم و أقساط تصل الى 10 سنين - وخصم 5% لفترة محدودة",
+      "amenities": [
+        "Club House",
+        "Kids Club",
+        "Fine Dining",
+        "Nursery",
+        "Swimming Pool",
+        "water Features",
+        "Football Field",
+        "Padel Court",
+        "Strip Mall"
+      ],
+      "developer": "EGY GAB",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 124,
+      "featured": true
+    },
     {
       "id": "5",
-      "title": "Luxury Townhouse in Arabian Ranches",
+      "title": "Luxury Apartment in Arabian Ranches",
       "titleAr": "تاون هاوس فاخر في المرابع العربية",
       "location": "Arabian Ranches, Dubai",
       "locationAr": "المرابع العربية، دبي",
