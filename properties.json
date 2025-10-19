@@ -1,8 +1,9 @@
 {
   "properties": [
     {
+      
       "id": "1",
-      "slug": "apartment-in-new-capital",
+      "slug":"apartment-in-new-capital",
       "title": "Luxury Apartment in Queen Land",
       "titleAr": "شقة فاخرة في كوين لاند",
       "location": "New Capital, Egypt",
@@ -13,12 +14,10 @@
       "priceAr": 2200000,
       "description": "Fully finished studio in Queen Land Compound, Prime location in the heart of R8.",
       "descriptionAr": "استوديو متكامل في كمبوند Queen Land بالعاصمة الإدارية الجديدة  موقع مميز في قلب الـR8، تشطيب فاخر",
-      "images": [
-        "/properties/Queenland1.webp",
-        "/properties/Queenland2.webp",
-        "/properties/Queenland3.webp",
-        "/properties/queenland4.webp"
-      ],
+      "images": ["/properties/Queenland1.webp",
+       "/properties/Queenland2.webp",
+        "/properties/Queenland3.webp" ,
+         "/properties/Queenland4.webp"],
       "features": [
         "Private Pool",
         "Clubhouse access",
@@ -56,7 +55,7 @@
     },
     {
       "id": "2",
-      "slug": "chalet-in-new-north-coast",
+      "slug":"chalet-in-new-north-coast",
       "title": "luxury Chalet in Jamila North Coast",
       "titleAr": "شالية فاخر متشطب بالكامل في جميلة الساحل الشمالي ",
       "location": "North Coast, Egypt",
@@ -67,11 +66,9 @@
       "priceAr": 5085000,
       "description": "Luxurious 1-bedroom Chalet with stunning sea view and premium finishes.",
       "descriptionAr": "شالية فاخرة بغرفة نوم واحدة مع إطلالات خلابة على البحر وتشطيبات فاخرة",
-      "images": [
-        "/properties/Jamila1.webp",
-        "/properties/jamila2.webp",
-        "/properties/jamila3.webp"
-      ],
+      "images": ["/properties/Jamila1.webp",
+      "/properties/Jamila2.webp",
+      "/properties/Jamila3.webp"],
       "features": [
         "sea View",
         "Balcony",
@@ -107,7 +104,7 @@
     },
     {
       "id": "3",
-      "slug": "3-bedrooms-apartment-in-lagoons",
+      "slug":"3-bedrooms-apartment-in-lagoons",
       "title": "3 Bedrooms Apartment in Lagoons",
       "titleAr": "شقة من 3 غرف نوم في لاجونز",
       "location": "New Capital, Egypt",
@@ -118,11 +115,9 @@
       "priceAr": 3900000,
       "description": "Exclusive 3 Bedrooms Apartment with panoramic Lagoons views and luxury amenities in prime location.",
       "descriptionAr": "شقة من 3 غرف نوم مع إطلالات بانورامية على لاجونز ووسائل راحة فاخرة في موقع متميز",
-      "images": [
-        "/properties/Lagoons1.webp",
-        "/properties/Lagoons2.webp",
-        "/properties/Lagoons3.webp"
-      ],
+      "images": ["/properties/Lagoons1.webp", 
+      "/properties/Lagoons2.webp",
+       "/properties/Lagoons3.webp"],
       "features": [
         "Panoramic Views",
         "Private Terrace",
