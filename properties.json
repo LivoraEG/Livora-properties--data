@@ -62,7 +62,7 @@
       "priceAr": 5085000,
       "description": "Luxurious 1-bedroom Chalet with stunning sea view and premium finishes.",
       "descriptionAr": "شالية فاخرة بغرفة نوم واحدة مع إطلالات خلابة على البحر وتشطيبات فاخرة",
-      "images": ["/properties/Jamila1.webp", "/properties/Jamila2.webp", "/properties/Jamila3.webp"],
+      "images": ["/properties/Jamila1.webp","/properties/Jamila2.webp","/properties/Jamila3.webp"],
       "features": [
         "sea View",
         "Balcony",
