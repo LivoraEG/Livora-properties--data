@@ -248,6 +248,59 @@
       "area": 124,
       "featured": true
     },
+      {
+      "id": "6",
+      "title": "2 Bedrooms Apartment in The YARU",
+      "titleAr": "شقة من 2 غرف نوم في يارو",
+      "location": "New Capital, Egypt",
+      "locationAr": "العاصمة الادارية، مصر",
+      "city": "New Capital",
+      "cityAr": "العاصمة الادارية",
+      "price": 5500000,
+      "priceAr": 5500000,
+      "description": "Luxurious 2 Bedrooms Apartment in the heart of R8",
+      "descriptionAr": "شقة من 2 غرف نوم فاخر في قلب الR8",
+      "images": [
+        "/properties/YARU1.webp",
+        "/properties/YARU2.webp",
+        "/properties/YARU3.webp",
+        "/properties/YARU4.webp"
+      ],
+      "features": [
+
+        "Infinity Pool",
+        "Outdoor Kitchen",
+        "Guest House"
+      ],
+      "featuresAr": [
+      
+        "مسبح لا متناهي",
+        "مطبخ خارجي",
+        "بيت ضيافة"
+      ],
+      "paymentPlans": "10% down payment, installments up to 10 years - 5% Discount Limited Offer",
+      "paymentPlansAr": "10% مقدم و أقساط تصل الى 10 سنين - وخصم 5% لفترة محدودة",
+      "amenities": [
+        "Club House",
+        "Kids Club",
+        "Fine Dining",
+        "Nursery",
+        "Swimming Pool",
+        "water Features",
+        "Football Field",
+        "Padel Court",
+        "Strip Mall"
+      ],
+      "developer": "Qontrac",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 117,
+      "featured": true
+    },
     {
       "id": "5",
       "title": "Luxury Apartment in Arabian Ranches",
