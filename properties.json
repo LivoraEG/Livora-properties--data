@@ -302,7 +302,61 @@
       "featured": true
     },
     {
-      "id": "5",
+      "id": "7",
+      "title": "Studio in Sage Lake New Capital",
+      "titleAr": "استوديو في ساج ليك العاصمة الإدارية",
+      "location": "New Capital, Egypt",
+      "locationAr": "العاصمة الادارية، مصر",
+      "city": "New Capital",
+      "cityAr": "العاصمة الادارية",
+      "price": 1320000,
+      "priceAr": 1320000,
+      "description": "Luxurious Studio in the heart of Sage Lake",
+      "descriptionAr": "استوديو فاخر في قلب ساج ليك",
+      "images": [
+        "/properties/SageLake1.webp"
+      ],
+      "features": [
+
+        "Infinity Pool",
+        "Outdoor Kitchen",
+        "Guest House",
+        "bbq Area"
+      ],
+      "featuresAr": [
+      
+        "مسبح لا متناهي",
+        "مطبخ خارجي",
+        "بيت ضيافة"
+      ],
+      "paymentPlans": "10% down payment, installments up to 10 years ",
+      "paymentPlansAr": "10% مقدم و أقساط تصل الى 10 سنين",
+      "amenities": [
+        "Club House",
+        "Kids Club",
+        "Fine Dining",
+        "Nursery",
+        "Swimming Pool",
+        "water Features",
+        "Football Field",
+        "Padel Court",
+        "Strip Mall",
+        "gated Community"
+
+      ],
+      "developer": "Qontrac",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 53,
+      "featured": true
+    },
+    
+    {
+      "id": "8",
       "title": "Luxury Apartment in Arabian Ranches",
       "titleAr": "تاون هاوس فاخر في المرابع العربية",
       "location": "Arabian Ranches, Dubai",
@@ -352,7 +406,7 @@
       "featured": false
     },
     {
-      "id": "6",
+      "id": "9",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
@@ -402,7 +456,7 @@
       "featured": true
     },
     {
-      "id": "7",
+      "id": "10",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
@@ -452,7 +506,7 @@
       "featured": true
     },
     {
-      "id": "8",
+      "id": "11",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
