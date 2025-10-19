@@ -153,52 +153,47 @@
     },
     {
       "id": "4",
-      "title": "Beachfront Villa in North Coast",
-      "titleAr": "فيلا على الشاطئ في الساحل الشمالي",
-      "location": "North Coast, Egypt",
-      "locationAr": "الساحل الشمالي، مصر",
-      "city": "North Coast",
-      "cityAr": "الساحل الشمالي",
-      "price": 22000000,
-      "priceAr": 22000000,
-      "description": "Luxurious beachfront villa with direct beach access and breathtaking sea views.",
-      "descriptionAr": "فيلا فاخرة على الشاطئ مع وصول مباشر للبحر وإطلالات خلابة على البحر",
+      "title": "Studio in DEFAF",
+      "titleAr": "استوديو في ضفاف",
+      "location": "New Capital, Egypt",
+      "locationAr": "العاصمة الادارية، مصر",
+      "city": "New Capital",
+      "cityAr": "العاصمة الادارية",
+      "price": 1500000,
+      "priceAr": 1500000,
+      "description": "Luxurious Studio in the heart of R8",
+      "descriptionAr": "استوديو فاخر في قلب الR8",
       "images": [
-        "/properties/big (1).webp",
-        "/properties/medium (1).webp",
-        "/properties/medium.webp"
+        "/properties/Defaf1.webp",
+        "/properties/Defaf2.webp"
       ],
       "features": [
-        "Beach Access",
-        "Sea View",
+
         "Infinity Pool",
         "Outdoor Kitchen",
         "Guest House"
       ],
       "featuresAr": [
-        "وصول للشاطئ",
-        "إطلالة على البحر",
+      
         "مسبح لا متناهي",
         "مطبخ خارجي",
         "بيت ضيافة"
       ],
-      "paymentPlans": "20% down payment, installments up to 6 years",
-      "paymentPlansAr": "20% دفعة مقدمة، أقساط حتى 6 سنوات",
+      "paymentPlans": "10% down payment, installments up to 10 years - 5% Discount Limited Offer",
+      "paymentPlansAr": "10% مقدم و أقساط تصل الى 10 سنين - وخصم 5% لفترة محدودة",
       "amenities": [
-        "Private Beach",
-        "Beach Club",
-        "Water Sports",
+        "Club House",
         "Kids Club",
         "Fine Dining"
       ],
-      "developer": "Tatweer Misr",
-      "type": "Villa",
-      "typeAr": "فيلا",
+      "developer": "DIG",
+      "type": "Apartment",
+      "typeAr": "شقة",
       "currency": "EGP",
       "currencyAr": "ج.م",
-      "bedrooms": 6,
-      "bathrooms": 5,
-      "area": 750,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 55,
       "featured": true
     },
     {
