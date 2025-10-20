@@ -354,6 +354,62 @@
       "area": 53,
       "featured": true
     },
+    {
+      "id": "8",
+      "title": "1 Bedroom Apartment in La Reva New Capital",
+      "titleAr": "شقة من غرفة نوم واحدة في لا ريفا العاصمة الإدارية",
+      "location": "New Capital, Egypt",
+      "locationAr": "العاصمة الادارية، مصر",
+      "city": "New Capital",
+      "cityAr": "العاصمة الادارية",
+      "price": 3285000,
+      "priceAr": 3285000,
+      "description": "Luxurious 1 Bedroom Apartment in the heart of R8",
+      "descriptionAr": "شقة من غرفة نوم واحدة فاخر في قلب الR8",
+      "images": [
+        "/properties/LaReva1.webp",
+        "/properties/LaReva2.webp",
+        "/properties/LaReva3.webp",
+        "/properties/LaReva4.webp"
+      ],
+      "features": [
+
+        "Infinity Pool",
+        "Outdoor Kitchen",
+        "Guest House",
+        "bbq Area"
+      ],
+      "featuresAr": [
+      
+        "مسبح لا متناهي",
+        "مطبخ خارجي",
+        "بيت ضيافة"
+      ],
+      "paymentPlans": "10% down payment, installments up to 10 years - 10% Discount Limited Offer",
+      "paymentPlansAr": "10% مقدم و أقساط تصل الى 10 سنين - عرض محدود خصم 10%",
+      "amenities": [
+        "Club House",
+        "Kids Club",
+        "Swimming Pool",
+        "Football Field",
+        "Padel Court",
+        "Strip Mall",
+        "gated Community",
+        "meditation Area",
+        "Gym",
+        "Spa"
+
+      ],
+      "developer": "  MAG",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 79,
+      "featured": true
+    },
     
     {
       "id": "8",
