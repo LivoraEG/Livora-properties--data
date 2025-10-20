@@ -410,9 +410,122 @@
       "area": 79,
       "featured": true
     },
-    
     {
-      "id": "8",
+      "id": "9",
+      "title": "Hotel Studio in Glee North Coast",
+      "titleAr": "استوديو فندقي في جلي الساحل الشمالي",
+      "location": "North Coast, Egypt",
+      "locationAr": "الساحل الشمالي، مصر",
+      "city": "North Coast",
+      "cityAr": "الساحل الشمالي",
+      "price": 3550000,
+      "priceAr": 3550000,
+      "description": "Luxurious Hotel Studio in the heart of North Coast",
+      "descriptionAr": "استوديو فندقي فاخر في قلب جلي",
+      "images": [
+        "/properties/Glee1.webp",
+        "/properties/Glee2.webp",
+        "/properties/Glee3.webp",
+        "/properties/Glee4.webp"
+      ],
+      "features": [
+
+        "Infinity Pool",
+        "Outdoor Kitchen",
+        "Balcony",
+        "Guest House",
+        "bbq Area"
+      ],
+      "featuresAr": [
+      
+        "مسبح لا متناهي",
+        "مطبخ خارجي",
+        "شرفة",
+        "بيت ضيافة"
+      ],
+      "paymentPlans": "0% down payment, installments up to 12 years - 10% Discount Limited Offer",
+      "paymentPlansAr": "10% مقدم و أقساط تصل الى 10 سنين - عرض محدود خصم 10%",
+      "amenities": [
+        "Club House",
+        "sea view",
+        "Kids Club",
+        "Swimming Pool",
+        "Football Field",
+        "Padel Court",
+        "Strip Mall",
+        "gated Community",
+        "meditation Area",
+        "Gym",
+        "Spa"
+
+      ],
+      "developer": "Tharaa",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 31,
+      "featured": true
+    },
+    {
+      "id": "10",
+      "title": "3 Bedroom Apartment in Kardia New Capital",
+      "titleAr": "شقة من ثلاث غرف نوم في كارديا العاصمة الإدارية",
+      "location": "New Capital, Egypt",
+      "locationAr": "العاصمة الادارية، مصر",
+      "city": "New Capital",
+      "cityAr": "العاصمة الادارية",
+      "price": 6000000,
+      "priceAr": 6000000,
+      "description": "Luxurious 3 Bedroom Apartment in the heart of Kardia",
+      "descriptionAr": "شقة من ثلاث غرف نوم فاخر في قلب كارديا",
+      "images": [
+        "/properties/kardia1.webp",
+        "/properties/kardia2.webp",
+        "/properties/kardia3.webp"
+      ],
+      "features": [
+
+        "Infinity Pool",
+        "Outdoor Kitchen",
+        "Guest House",
+        "bbq Area"
+      ],
+      "featuresAr": [
+      
+        "مسبح لا متناهي",
+        "مطبخ خارجي",
+        "بيت ضيافة"
+      ],
+      "paymentPlans": "10% down payment, installments up to 14 years - 10% Discount Limited Offer",
+      "paymentPlansAr": "10% مقدم و أقساط تصل الى 14 سنين - عرض محدود خصم 10%",
+      "amenities": [
+        "Club House",
+        "Kids Club",
+        "Swimming Pool",
+        "Football Field",
+        "Padel Court",
+        "Strip Mall",
+        "gated Community",
+        "meditation Area",
+        "Gym",
+        "Spa"
+
+      ],
+      "developer": "Capital Link",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 148,
+      "featured": true
+    },
+    {
+      "id": "11",
       "title": "Luxury Apartment in Arabian Ranches",
       "titleAr": "تاون هاوس فاخر في المرابع العربية",
       "location": "Arabian Ranches, Dubai",
@@ -462,7 +575,7 @@
       "featured": false
     },
     {
-      "id": "9",
+      "id": "12",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
@@ -512,7 +625,7 @@
       "featured": true
     },
     {
-      "id": "10",
+      "id": "13",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
@@ -562,7 +675,7 @@
       "featured": true
     },
     {
-      "id": "11",
+      "id": "14",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
