@@ -3,7 +3,8 @@
     {
       
       "id": "1",
-      "slug":"apartment-in-new-capital",
+      "slug_en": "luxury-apartment-in-queen-land",
+      "slug_ar": "شقة-فاخرة-في-كوين-لاند",
       "title": "Luxury Apartment in Queen Land",
       "titleAr": "شقة فاخرة في كوين لاند",
       "location": "New Capital, Egypt",
@@ -55,7 +56,8 @@
     },
     {
       "id": "2",
-      "slug":"chalet-in-new-north-coast",
+      "slug_en": "luxury-chalet-in-jamila-north-coast",
+      "slug_ar": "شالية-فاخر-متشطب-بالكامل-في-جميلة-الساحل-الشمالي",
       "title": "luxury Chalet in Jamila North Coast",
       "titleAr": "شالية فاخر متشطب بالكامل في جميلة الساحل الشمالي ",
       "location": "North Coast, Egypt",
@@ -104,7 +106,8 @@
     },
     {
       "id": "3",
-      "slug":"3-bedrooms-apartment-in-lagoons",
+      "slug_en": "3-bedrooms-apartment-in-lagoons",
+      "slug_ar": "شقة-من-3-غرف-نوم-في-لاجونز",
       "title": "3 Bedrooms Apartment in Lagoons",
       "titleAr": "شقة من 3 غرف نوم في لاجونز",
       "location": "New Capital, Egypt",
@@ -153,6 +156,8 @@
     },
     {
       "id": "4",
+      "slug_en": "studio-in-defaf",
+      "slug_ar": "استوديو-في-ضفاف",
       "title": "Studio in DEFAF",
       "titleAr": "استوديو في ضفاف",
       "location": "New Capital, Egypt",
@@ -198,6 +203,8 @@
     },
      {
       "id": "5",
+      "slug_en": "2-bedrooms-apartment-in-the-island",
+      "slug_ar": "شقة-من-2-غرف-نوم-في-ذا-آيلاند",
       "title": "2 Bedrooms Apartment in The Island",
       "titleAr": "شقة من 2 غرف نوم في ذا آيلاند",
       "location": "New Capital, Egypt",
@@ -250,6 +257,8 @@
     },
       {
       "id": "6",
+      "slug_en": "2-bedrooms-apartment-in-the-yaru",
+      "slug_ar": "شقة-من-2-غرف-نوم-في-يارو",
       "title": "2 Bedrooms Apartment in The YARU",
       "titleAr": "شقة من 2 غرف نوم في يارو",
       "location": "New Capital, Egypt",
@@ -303,6 +312,8 @@
     },
     {
       "id": "7",
+      "slug_en": "studio-in-sage-lake-new-capital",
+      "slug_ar": "استوديو-في-ساج-ليك-العاصمة-الإدارية",
       "title": "Studio in Sage Lake New Capital",
       "titleAr": "استوديو في ساج ليك العاصمة الإدارية",
       "location": "New Capital, Egypt",
@@ -356,6 +367,8 @@
     },
     {
       "id": "8",
+      "slug_en": "1-bedroom-apartment-in-la-reva-new-capital",
+      "slug_ar": "شقة-من-غرفة-نوم-واحدة-في-لا-ريفا-العاصمة-الإدارية",
       "title": "1 Bedroom Apartment in La Reva New Capital",
       "titleAr": "شقة من غرفة نوم واحدة في لا ريفا العاصمة الإدارية",
       "location": "New Capital, Egypt",
@@ -412,6 +425,8 @@
     },
     {
       "id": "9",
+      "slug_en": "hotel-studio-in-glee-north-coast",
+      "slug_ar": "استوديو-فندقي-في-جلي-الساحل-الشمالي",
       "title": "Hotel Studio in Glee North Coast",
       "titleAr": "استوديو فندقي في جلي الساحل الشمالي",
       "location": "North Coast, Egypt",
@@ -471,6 +486,8 @@
     },
     {
       "id": "10",
+      "slug_en": "3-bedroom-apartment-in-kardia-new-capital",
+      "slug_ar": "شقة-من-ثلاث-غرف-نوم-في-كارديا-العاصمة-الإدارية",
       "title": "3 Bedroom Apartment in Kardia New Capital",
       "titleAr": "شقة من ثلاث غرف نوم في كارديا العاصمة الإدارية",
       "location": "New Capital, Egypt",
@@ -525,6 +542,8 @@
     },
     {
       "id": "11",
+      "slug_en": "luxury-apartment-in-arabian-ranches",
+      "slug_ar": "تاون-هاوس-فاخر-في-المرابع-العربية",
       "title": "Luxury Apartment in Arabian Ranches",
       "titleAr": "تاون هاوس فاخر في المرابع العربية",
       "location": "Arabian Ranches, Dubai",
@@ -575,6 +594,8 @@
     },
     {
       "id": "12",
+      "slug_en": "penthouse-in-downtown-cairo",
+      "slug_ar": "بنتهاوس-في-وسط-القاهرة",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
@@ -625,6 +646,8 @@
     },
     {
       "id": "13",
+      "slug_en": "penthouse-in-downtown-cairo",
+      "slug_ar": "بنتهاوس-في-وسط-القاهرة",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
@@ -675,6 +698,8 @@
     },
     {
       "id": "14",
+     "slug_en": "penthouse-in-downtown-cairo",
+      "slug_ar": "بنتهاوس-في-وسط-القاهرة",
       "title": "Penthouse in Downtown Cairo",
       "titleAr": "بنتهاوس في وسط القاهرة",
       "location": "Downtown Cairo, Egypt",
