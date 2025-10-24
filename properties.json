@@ -541,6 +541,65 @@
       "featured": true
     },
     {
+      "id": "12",
+      "slug_en": "2-bedroom-apartment-in-city-oval-new-capital",
+      "slug_ar": "شقة-من-غرفتين-نوم-في-سيتي-أوفال-العاصمة-الإدارية",
+      "title": "2 Bedroom Apartment in City Oval",
+      "titleAr": "شقة من غرفتين نوم في سيتي أوفال",
+      "location": "New Capital, Egypt",
+      "locationAr": "العاصمة الادارية، مصر",
+      "city": "New Capital",
+      "cityAr": "العاصمة الادارية",
+      "price": 3780000,
+      "priceAr": 3780000,
+      "description": "Luxurious 2 Bedroom Apartment in the heart of City Oval",
+      "descriptionAr": "شقة من غرفتين نوم فاخر في قلب سيتي أوفال",
+      "images": [
+        "/properties/cityoval1.webp",
+        "/properties/cityoval2.webp",
+        "/properties/cityoval3.webp"
+      ],
+      "features": [
+
+        "Infinity Pool",
+        "Outdoor Kitchen",
+        "Guest House",
+        "bbq Area",
+        "2 Balconies"
+      ],
+      "featuresAr": [
+      
+        "مسبح لا متناهي",
+        "مطبخ خارجي",
+        "بيت ضيافة",
+        "شرفتين"
+      ],
+      "paymentPlans": "10% down payment, installments up to 10 years - 10% Discount Limited Offer",
+      "paymentPlansAr": "10% مقدم و أقساط تصل الى 10 سنين - عرض محدود خصم 10%",
+      "amenities": [
+        "Club House",
+        "Kids Club",
+        "Swimming Pool",
+        "Football Field",
+        "Padel Court",
+        "Strip Mall",
+        "gated Community",
+        "meditation Area",
+        "Gym",
+        "Spa"
+
+      ],
+      "developer": "Master Group",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": 93,
+      "featured": true
+    },
+    {
       "id": "11",
       "slug_en": "luxury-apartment-in-arabian-ranches",
       "slug_ar": "تاون-هاوس-فاخر-في-المرابع-العربية",
