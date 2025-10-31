@@ -55,7 +55,61 @@
       "featured": true
     },
     {
+      
       "id": "2",
+      "slug_en": "luxury-chalet-in-koun-ras-al-hikmah",
+      "slug_ar": "شالية-فاخر-في-كون-راس-الحكمة",
+      "title": "Luxury Chalet in Koun Ras Al Hikmah",
+      "titleAr": "شالية فاخر في كون راس الحكمة",
+      "location": "North Coast, Egypt",
+      "locationAr": "الساحل الشمالي، مصر",
+      "city": "North Coast",
+      "cityAr": "الساحل الشمالي",
+      "price": 8900000,
+      "priceAr": 8900000,
+      "description": "Fully finished 2-Bedroom in Koun Ras Al Hikmah, Prime location in the heart of the North Coast.",
+      "descriptionAr": "شالية من غرفتين متكامل في كون راس الحكمة، موقع مميز في قلب الساحل الشمالي، تشطيب فاخر",
+      "images": [
+       "/properties/Koun1.webp",
+        "/properties/Koun2.webp" ,
+         "/properties/Koun3.webp"],
+      "features": [
+        "Private Pool",
+        "Clubhouse access",
+        "Garden",
+        "Parking",
+        "strip mall",
+        "Security System",
+        "Smart Home"
+      ],
+      "featuresAr": [
+        "مسبح خاص",
+        "حديقة",
+        "موقف سيارات",
+        "نظام أمني",
+        "منزل ذكي"
+      ],
+      "paymentPlans": "Flexible payment plans available with up to 10 years installments",
+      "paymentPlansAr": "خطط دفع مرنة متاحة مع أقساط تصل إلى 10 سنوات",
+      "amenities": [
+        "Swimming Pool",
+        "Gym",
+        "Kids Area",
+        "Landscaped Gardens",
+        "24/7 Security"
+      ],
+      "developer": "Euphoria",
+      "type": "Apartment",
+      "typeAr": "شقة",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 58,
+      "featured": true
+    },
+    {
+      "id": "3",
       "slug_en": "luxury-chalet-in-jamila-north-coast",
       "slug_ar": "شالية-فاخر-متشطب-بالكامل-في-جميلة-الساحل-الشمالي",
       "title": "luxury Chalet in Jamila North Coast",
@@ -105,7 +159,7 @@
       "featured": true
     },
     {
-      "id": "3",
+      "id": "4",
       "slug_en": "3-bedrooms-apartment-in-lagoons",
       "slug_ar": "شقة-من-3-غرف-نوم-في-لاجونز",
       "title": "3 Bedrooms Apartment in Lagoons",
@@ -155,7 +209,7 @@
       "featured": true
     },
     {
-      "id": "4",
+      "id": "5",
       "slug_en": "studio-in-defaf",
       "slug_ar": "استوديو-في-ضفاف",
       "title": "Studio in DEFAF",
@@ -202,7 +256,7 @@
       "featured": true
     },
      {
-      "id": "5",
+      "id": "6",
       "slug_en": "2-bedrooms-apartment-in-the-island",
       "slug_ar": "شقة-من-2-غرف-نوم-في-ذا-آيلاند",
       "title": "2 Bedrooms Apartment in The Island",
@@ -256,7 +310,7 @@
       "featured": true
     },
       {
-      "id": "6",
+      "id": "7",
       "slug_en": "2-bedrooms-apartment-in-the-yaru",
       "slug_ar": "شقة-من-2-غرف-نوم-في-يارو",
       "title": "2 Bedrooms Apartment in The YARU",
@@ -311,7 +365,7 @@
       "featured": true
     },
     {
-      "id": "7",
+      "id": "8",
       "slug_en": "studio-in-sage-lake-new-capital",
       "slug_ar": "استوديو-في-ساج-ليك-العاصمة-الإدارية",
       "title": "Studio in Sage Lake New Capital",
@@ -366,7 +420,7 @@
       "featured": true
     },
     {
-      "id": "8",
+      "id": "9",
       "slug_en": "1-bedroom-apartment-in-la-reva-new-capital",
       "slug_ar": "شقة-من-غرفة-نوم-واحدة-في-لا-ريفا-العاصمة-الإدارية",
       "title": "1 Bedroom Apartment in La Reva New Capital",
@@ -424,7 +478,7 @@
       "featured": true
     },
     {
-      "id": "9",
+      "id": "10",
       "slug_en": "hotel-studio-in-glee-north-coast",
       "slug_ar": "استوديو-فندقي-في-جلي-الساحل-الشمالي",
       "title": "Hotel Studio in Glee North Coast",
@@ -485,7 +539,7 @@
       "featured": true
     },
     {
-      "id": "10",
+      "id": "11",
       "slug_en": "3-bedroom-apartment-in-kardia-new-capital",
       "slug_ar": "شقة-من-ثلاث-غرف-نوم-في-كارديا-العاصمة-الإدارية",
       "title": "3 Bedroom Apartment in Kardia New Capital",
@@ -600,7 +654,7 @@
       "featured": true
     },
     {
-      "id": "11",
+      "id": "13",
       "slug_en": "luxury-apartment-in-arabian-ranches",
       "slug_ar": "تاون-هاوس-فاخر-في-المرابع-العربية",
       "title": "Luxury Apartment in Arabian Ranches",
@@ -652,111 +706,111 @@
       "featured": false
     },
     {
-      "id": "12",
-      "slug_en": "penthouse-in-downtown-cairo",
-      "slug_ar": "بنتهاوس-في-وسط-القاهرة",
-      "title": "Penthouse in Downtown Cairo",
-      "titleAr": "بنتهاوس في وسط القاهرة",
-      "location": "Downtown Cairo, Egypt",
-      "locationAr": "وسط القاهرة، مصر",
-      "city": "Cairo",
-      "cityAr": "القاهرة",
-      "price": 18000000,
-      "priceAr": 18000000,
-      "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
-      "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
-      "images": [
-        "/properties/big (1).webp",
-        "/properties/medium (1).webp",
-        "/properties/medium.webp"
-      ],
-      "features": [
-        "Panoramic Views",
-        "Private Terrace",
-        "Jacuzzi",
-        "Premium Finishes",
-        "Private Elevator"
-      ],
-      "featuresAr": [
-        "إطلالات بانورامية",
-        "تراس خاص",
-        "جاكوزي",
-        "تشطيبات فاخرة",
-        "مصعد خاص"
-      ],
-      "paymentPlans": "10% down payment, remaining over 4 years",
-      "paymentPlansAr": "10% دفعة مقدمة، والباقي على 4 سنوات",
-      "amenities": [
-        "Rooftop Pool",
-        "Spa",
-        "Private Lounge",
-        "Valet Parking",
-        "High-speed Elevators"
-      ],
-      "developer": "Sodic",
-      "type": "Penthouse",
-      "typeAr": "بنتهاوس",
-      "currency": "EGP",
-      "currencyAr": "ج.م",
-      "bedrooms": 4,
-      "bathrooms": 4,
-      "area": 380,
-      "featured": true
-    },
-    {
-      "id": "13",
-      "slug_en": "penthouse-in-downtown-cairo",
-      "slug_ar": "بنتهاوس-في-وسط-القاهرة",
-      "title": "Penthouse in Downtown Cairo",
-      "titleAr": "بنتهاوس في وسط القاهرة",
-      "location": "Downtown Cairo, Egypt",
-      "locationAr": "وسط القاهرة، مصر",
-      "city": "Cairo",
-      "cityAr": "القاهرة",
-      "price": 18000000,
-      "priceAr": 18000000,
-      "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
-      "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
-      "images": [
-        "/properties/big (1).webp",
-        "/properties/medium (1).webp",
-        "/properties/medium.webp"
-      ],
-      "features": [
-        "Panoramic Views",
-        "Private Terrace",
-        "Jacuzzi",
-        "Premium Finishes",
-        "Private Elevator"
-      ],
-      "featuresAr": [
-        "إطلالات بانورامية",
-        "تراس خاص",
-        "جاكوزي",
-        "تشطيبات فاخرة",
-        "مصعد خاص"
-      ],
-      "paymentPlans": "10% down payment, remaining over 4 years",
-      "paymentPlansAr": "10% دفعة مقدمة، والباقي على 4 سنوات",
-      "amenities": [
-        "Rooftop Pool",
-        "Spa",
-        "Private Lounge",
-        "Valet Parking",
-        "High-speed Elevators"
-      ],
-      "developer": "Sodic",
-      "type": "Penthouse",
-      "typeAr": "بنتهاوس",
-      "currency": "EGP",
-      "currencyAr": "ج.م",
-      "bedrooms": 4,
-      "bathrooms": 4,
-      "area": 380,
-      "featured": true
-    },
-    {
       "id": "14",
+      "slug_en": "penthouse-in-downtown-cairo",
+      "slug_ar": "بنتهاوس-في-وسط-القاهرة",
+      "title": "Penthouse in Downtown Cairo",
+      "titleAr": "بنتهاوس في وسط القاهرة",
+      "location": "Downtown Cairo, Egypt",
+      "locationAr": "وسط القاهرة، مصر",
+      "city": "Cairo",
+      "cityAr": "القاهرة",
+      "price": 18000000,
+      "priceAr": 18000000,
+      "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
+      "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
+      "images": [
+        "/properties/big (1).webp",
+        "/properties/medium (1).webp",
+        "/properties/medium.webp"
+      ],
+      "features": [
+        "Panoramic Views",
+        "Private Terrace",
+        "Jacuzzi",
+        "Premium Finishes",
+        "Private Elevator"
+      ],
+      "featuresAr": [
+        "إطلالات بانورامية",
+        "تراس خاص",
+        "جاكوزي",
+        "تشطيبات فاخرة",
+        "مصعد خاص"
+      ],
+      "paymentPlans": "10% down payment, remaining over 4 years",
+      "paymentPlansAr": "10% دفعة مقدمة، والباقي على 4 سنوات",
+      "amenities": [
+        "Rooftop Pool",
+        "Spa",
+        "Private Lounge",
+        "Valet Parking",
+        "High-speed Elevators"
+      ],
+      "developer": "Sodic",
+      "type": "Penthouse",
+      "typeAr": "بنتهاوس",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 380,
+      "featured": true
+    },
+    {
+      "id": "15",
+      "slug_en": "penthouse-in-downtown-cairo",
+      "slug_ar": "بنتهاوس-في-وسط-القاهرة",
+      "title": "Penthouse in Downtown Cairo",
+      "titleAr": "بنتهاوس في وسط القاهرة",
+      "location": "Downtown Cairo, Egypt",
+      "locationAr": "وسط القاهرة، مصر",
+      "city": "Cairo",
+      "cityAr": "القاهرة",
+      "price": 18000000,
+      "priceAr": 18000000,
+      "description": "Exclusive penthouse with panoramic city views and luxury amenities in prime location.",
+      "descriptionAr": "بنتهاوس حصري مع إطلالات بانورامية على المدينة ووسائل راحة فاخرة في موقع متميز",
+      "images": [
+        "/properties/big (1).webp",
+        "/properties/medium (1).webp",
+        "/properties/medium.webp"
+      ],
+      "features": [
+        "Panoramic Views",
+        "Private Terrace",
+        "Jacuzzi",
+        "Premium Finishes",
+        "Private Elevator"
+      ],
+      "featuresAr": [
+        "إطلالات بانورامية",
+        "تراس خاص",
+        "جاكوزي",
+        "تشطيبات فاخرة",
+        "مصعد خاص"
+      ],
+      "paymentPlans": "10% down payment, remaining over 4 years",
+      "paymentPlansAr": "10% دفعة مقدمة، والباقي على 4 سنوات",
+      "amenities": [
+        "Rooftop Pool",
+        "Spa",
+        "Private Lounge",
+        "Valet Parking",
+        "High-speed Elevators"
+      ],
+      "developer": "Sodic",
+      "type": "Penthouse",
+      "typeAr": "بنتهاوس",
+      "currency": "EGP",
+      "currencyAr": "ج.م",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 380,
+      "featured": true
+    },
+    {
+      "id": "16",
      "slug_en": "penthouse-in-downtown-cairo",
       "slug_ar": "بنتهاوس-في-وسط-القاهرة",
       "title": "Penthouse in Downtown Cairo",
